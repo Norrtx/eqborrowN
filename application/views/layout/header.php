@@ -5,12 +5,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<title>eqBorrow <?php echo !empty($main_title) ? '-'.$main_title : ''; ?></title>
+	<title>กองร้อยบังคับการและบริการ <?php echo !empty($main_title) ? '-'.$main_title : ''; ?></title>
 	<meta name="description" content="ระบบยืมคืนสินค้า">
 	<meta name="author" content="eqBorrow - https://www.bahtsoft.com">
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="<?php echo base_url('assets/images/favicon.jpg'); ?>">
+	<link rel="shortcut icon" href="<?php echo base_url('assets/images/favicon.png'); ?>">
 
 	<!-- Switchery css -->
 	<link href="<?php echo base_url('assets/plugins/switchery/switchery.min.css'); ?>" rel="stylesheet" />

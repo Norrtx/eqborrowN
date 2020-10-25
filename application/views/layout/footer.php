@@ -10,12 +10,11 @@
 		<footer class="footer">
 			<span class="text-right">
 				Copyright
-				<a target="_blank" href="#">eqBorrow</a>
+				<a target="_blank" href="https://github.com/Norrtx">Northx</a>
 			</span>
 			<span class="float-right">
-				Powered by
 				<a target="_blank" href="https://www.itoffside.com">
-					<b>itOffside</b>
+					<b>กองร้อยบังคับการและบริการ</b>
 				</a>
 			</span>
 		</footer>

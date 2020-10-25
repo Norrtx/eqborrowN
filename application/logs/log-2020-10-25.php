@@ -4247,3 +4247,252 @@ DEBUG - 2020-10-25 14:11:44 --> UTF-8 Support Enabled
 DEBUG - 2020-10-25 14:11:44 --> Global POST, GET and COOKIE data sanitized
 DEBUG - 2020-10-25 14:11:44 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
 DEBUG - 2020-10-25 14:11:44 --> Total execution time: 0.1813
+DEBUG - 2020-10-25 14:17:51 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:17:51 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:17:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:17:52 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:17:53 --> Total execution time: 1.9842
+DEBUG - 2020-10-25 14:17:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:17:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:17:54 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:17:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:17:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:17:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:17:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:17:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:17:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:17:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:17:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:17:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:17:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:17:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:17:55 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:17:55 --> Total execution time: 0.3051
+DEBUG - 2020-10-25 14:18:23 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:23 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:18:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:18:23 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:18:24 --> Total execution time: 0.2471
+DEBUG - 2020-10-25 14:18:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:18:25 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:18:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:18:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:18:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:18:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:18:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:18:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:18:26 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:18:26 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:18:26 --> Total execution time: 0.2022
+DEBUG - 2020-10-25 14:18:28 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:29 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:18:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:18:29 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:18:29 --> Total execution time: 0.1590
+DEBUG - 2020-10-25 14:18:30 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:18:30 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:18:31 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:31 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:18:31 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:18:31 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:18:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:18:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-25 14:18:31 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:18:31 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:18:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:18:31 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:18:31 --> Total execution time: 0.2483
+DEBUG - 2020-10-25 14:20:51 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:20:51 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:20:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:20:51 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:20:51 --> Total execution time: 0.1852
+DEBUG - 2020-10-25 14:20:52 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:20:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:20:52 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:20:52 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:20:52 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:20:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:20:52 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:20:52 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:20:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:20:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:20:52 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:20:52 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:20:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:20:52 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-25 14:20:52 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:20:52 --> Total execution time: 0.1787
+DEBUG - 2020-10-25 14:21:24 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:21:24 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:21:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:21:24 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:21:24 --> Total execution time: 0.1754
+DEBUG - 2020-10-25 14:21:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:21:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:21:25 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:21:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:21:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:21:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:21:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:21:25 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:21:25 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:21:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:21:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:21:25 --> UTF-8 Support Enabled
+ERROR - 2020-10-25 14:21:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:21:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:21:25 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:21:25 --> Total execution time: 0.1931
+DEBUG - 2020-10-25 14:22:53 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:22:53 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:22:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:22:53 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:22:53 --> Total execution time: 0.1636
+DEBUG - 2020-10-25 14:22:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:22:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:22:54 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:22:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:22:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:22:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:22:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:22:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:22:54 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:22:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:22:54 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:22:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:22:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:22:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:22:54 --> Total execution time: 0.2107
+ERROR - 2020-10-25 14:22:54 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:28:16 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:16 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:28:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:16 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:28:16 --> Total execution time: 0.1289
+DEBUG - 2020-10-25 14:28:16 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:28:17 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:28:17 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:28:17 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:28:17 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:17 --> Total execution time: 0.2020
+ERROR - 2020-10-25 14:28:17 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:28:33 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:33 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:28:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:33 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:28:33 --> Total execution time: 0.2283
+DEBUG - 2020-10-25 14:28:34 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:28:34 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:28:34 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:34 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:34 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:28:34 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:28:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:28:35 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:28:35 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:35 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:28:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:35 --> Total execution time: 0.2208
+ERROR - 2020-10-25 14:28:35 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:28:46 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:46 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:28:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:46 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:28:46 --> Total execution time: 0.1225
+DEBUG - 2020-10-25 14:28:47 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:28:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:28:47 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:28:47 --> Total execution time: 0.1292
+DEBUG - 2020-10-25 14:29:01 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:01 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:29:01 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:29:01 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:29:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:29:01 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-25 14:29:01 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:29:01 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:29:01 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:29:47 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:47 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:29:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:29:47 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:29:47 --> Total execution time: 0.1128
+DEBUG - 2020-10-25 14:29:48 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:29:48 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:29:48 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:48 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:48 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:29:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:29:48 --> 404 Page Not Found: Assets/js
+ERROR - 2020-10-25 14:29:48 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:29:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:29:48 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:29:48 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:29:49 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:29:49 --> Total execution time: 0.1005
+DEBUG - 2020-10-25 14:29:50 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:50 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:29:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:29:50 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:29:50 --> Total execution time: 0.1277
+DEBUG - 2020-10-25 14:29:51 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:29:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:29:51 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:29:51 --> Total execution time: 0.1539
+DEBUG - 2020-10-25 14:30:21 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:30:21 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:30:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:30:22 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:30:22 --> Total execution time: 0.1509
+DEBUG - 2020-10-25 14:30:23 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:30:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:30:23 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:30:23 --> Total execution time: 0.1745
+DEBUG - 2020-10-25 14:30:44 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:30:44 --> No URI present. Default controller set.
+DEBUG - 2020-10-25 14:30:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:30:44 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:30:44 --> Total execution time: 0.1297
+DEBUG - 2020-10-25 14:30:45 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:30:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:30:45 --> 404 Page Not Found: Assets/css
+DEBUG - 2020-10-25 14:30:45 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:30:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:30:45 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:30:45 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:30:45 --> UTF-8 Support Enabled
+DEBUG - 2020-10-25 14:30:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-10-25 14:30:45 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:30:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:30:45 --> UTF-8 Support Enabled
+ERROR - 2020-10-25 14:30:45 --> 404 Page Not Found: Assets/js
+DEBUG - 2020-10-25 14:30:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-10-25 14:30:45 --> Config file loaded: C:\xampp\htdocs\eqborrowN\application\config/rest.php
+DEBUG - 2020-10-25 14:30:45 --> Total execution time: 0.1103
